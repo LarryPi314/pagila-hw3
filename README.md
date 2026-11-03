@@ -1,6 +1,6 @@
-# pagila-hw3
-[![](https://github.com/LarryPi314/pagila-hw3/workflows/tests/badge.svg)](https://github.com/LarryPi314/pagila-hw3/actions?query=workflow%3Atests)
+# pagila-hw3 [![tests](https://github.com/LarryPi314/pagila-hw3/actions/workflows/tests.yml/badge.svg)](https://github.com/LarryPi314/pagila-hw3/actions/workflows/tests.yml)
 
+This is the second SQL homework in CMC's CSCI143: Big Data class.
 ## Tasks
 
 1. Fork this repo and clone it on to the lambda server like normal.
